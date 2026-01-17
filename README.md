@@ -1,4 +1,4 @@
-# rainfall-based-dengue-early-warning-system
+# Rainfall-based Dengue Early Warning System
 Full reproducible R scripts for a Dengue Early Warning System in the Philippines, including weekly rainfall, dengue cases, pediatric admissions, and case fatality rate analysis. Figures 1–10 included with rolling thresholds and pooled Youden analysis. Data cannot be shared due to source restrictions.
 
 # Dengue Early Warning System — Philippines
